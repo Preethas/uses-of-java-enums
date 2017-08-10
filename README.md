@@ -2,7 +2,11 @@
 
 This repository demonstrates the uses of java enums
 
-1) In the implementation of validators
-2) In the implementation of singleton pattern
-3) In the implementation of chain of responsibility pattern
-4) In the implementation of strategy pattern
+<ul>
+
+<li> In the implementation of validators </li>
+<li> In the implementation of singleton pattern </li>
+<li> In the implementation of chain of responsibility pattern </li>
+<li> In the implementation of strategy pattern </li>
+
+</ul>
