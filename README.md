@@ -1,4 +1,4 @@
-# uses-of-java-enums
+# Uses of java enums
 
 This repository demonstrates the uses of java enums
 
