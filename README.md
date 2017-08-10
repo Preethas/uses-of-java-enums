@@ -1,5 +1,7 @@
 # uses-of-java-enums
 
+{% seo %}
+
 This repository demonstrates the uses of java enums
 
 <ul>
